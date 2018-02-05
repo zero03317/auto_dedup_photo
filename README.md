@@ -4,3 +4,7 @@ We can simply run this program by inputting the path of the pictures.
 
 Then, we'll calculate the hash value and delete the same pictures by hash value.
 
+Python command
+```python
+python auto_dedup_photo.py
+```
